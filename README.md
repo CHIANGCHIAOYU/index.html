@@ -1,6 +1,12 @@
-# 逆風羽影，隨風築夢
-<div style="background:#ffc0cb;width:100%;height:80px;float:left:margin:20px">
-# Auto detect text files and perform LF normalization
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>逆風羽影，隨風築夢</title>
+  <style>
+<div style="background:#ffc0cb;width:300%;height:100px;float:left:margin:20px">
+
 * text=auto
 <!DOCTYPE html>
 <html lang="zh-Hant">
@@ -8,12 +14,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>江巧羽的學習歷程</title>
+    <title>m,m,不平凡的平凡路</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>江巧羽的學習歷程</h1>
+        <h1>的學習歷程</h1>
         <nav>
             <ul>
                 <li><a href="#about">關於我</a></li>
