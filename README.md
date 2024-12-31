@@ -16,7 +16,7 @@
     /* 頂部導航 */
     header {
       background: #333;
-      color: #fff;
+      color:url<img src="[https://drive.google.com/file/d/13WIDpWQsQkEzI2ogYXR5YYUyU9PEb6pf/view?usp=sharing" alt](https://img.shoplineapp.com/media/image_clips/6141b144eb75ea0974248ef3/original.jpg?1631695172)](https://www.canva.com/design/DAGa0yjXNkQ/rPVjCcgl4WrQ7eFikVwW9A/view?utm_content=DAGa0yjXNkQ&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)](https://www.canva.com/design/DAGa0yjXNkQ/rPVjCcgl4WrQ7eFikVwW9A/view?utm_content=DAGa0yjXNkQ&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)="這是一張圖片">
       padding: 1rem;
       text-align: center;
     }
@@ -39,7 +39,7 @@
 
     /* 主頁橫幅或介紹區 */
     .hero {
-      background: url<img src="[https://drive.google.com/file/d/13WIDpWQsQkEzI2ogYXR5YYUyU9PEb6pf/view?usp=sharing" alt](https://img.shoplineapp.com/media/image_clips/6141b144eb75ea0974248ef3/original.jpg?1631695172)="這是一張圖片"> no-repeat center center/cover;
+      background: url<img src="[https://drive.google.com/file/d/13WIDpWQsQkEzI2ogYXR5YYUyU9PEb6pf/view?usp=sharing" alt](https://img.shoplineapp.com/media/image_clips/6141b144eb75ea0974248ef3/original.jpg?1631695172)](https://www.canva.com/design/DAGa0yjXNkQ/rPVjCcgl4WrQ7eFikVwW9A/view?utm_content=DAGa0yjXNkQ&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)](https://www.canva.com/design/DAGa0yjXNkQ/rPVjCcgl4WrQ7eFikVwW9A/view?utm_content=DAGa0yjXNkQ&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)="這是一張圖片"> no-repeat center center/cover;
       color: white;
       height: 300px;
       display: flex;
