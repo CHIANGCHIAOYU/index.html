@@ -39,7 +39,7 @@
 
     /* 主頁橫幅或介紹區 */
     .hero {
-      background: url<img src="https://drive.google.com/file/d/13WIDpWQsQkEzI2ogYXR5YYUyU9PEb6pf/view?usp=sharing" alt="這是一張圖片"> no-repeat center center/cover;
+      background: url<img src="[https://drive.google.com/file/d/13WIDpWQsQkEzI2ogYXR5YYUyU9PEb6pf/view?usp=sharing" alt](https://img.shoplineapp.com/media/image_clips/6141b144eb75ea0974248ef3/original.jpg?1631695172)="這是一張圖片"> no-repeat center center/cover;
       color: white;
       height: 300px;
       display: flex;
