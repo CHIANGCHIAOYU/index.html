@@ -9,7 +9,7 @@
       margin: 0;
       font-family: Arial, sans-serif;
       line-height: 1.6;
-      background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWvotngTrc08TvgIhtTP3n1tJVysh_IDO3Rg&s') no-repeat center center fixed;
+      background: url('[[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWvotngTrc08TvgIhtTP3n1tJVysh_IDO3Rg&s](https://img.shoplineapp.com/media/image_clips/6141b144eb75ea0974248ef3/original.jpg?1631695172)](https://img.lovepik.com/background/20211021/large/lovepik-white-feather-creative-background-image_401463433.jpg)') no-repeat center center fixed;
       background-size: cover;
     }
 
