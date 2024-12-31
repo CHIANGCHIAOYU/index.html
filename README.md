@@ -4,8 +4,51 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>逆風羽影，隨風築夢</title>
-  <style>
-<div style="background:#ffc0cb;width:300%;height:100px;float:left:margin:20px">
+.top-section {
+      background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWvotngTrc08TvgIhtTP3n1tJVysh_IDO3Rg&s');
+      background-size: cover;
+      background-position: center;
+      height: 400px; /* 調整高度 */
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      text-align: center;}
+
+    /* 主標題樣式 */
+    .top-section .title {
+      font-size: 40px;
+      font-weight: bold;
+      margin: 0;
+    }
+
+    /* 副標題樣式 */
+    .top-section .subtitle {
+      font-size: 18px;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- 背景圖片區塊 -->
+  <div class="top-section">
+    <div class="title">逆風羽影，隨風築夢</div>
+    <div class="subtitle">Welcome you</div>
+  </div>
+
+</body>
+</html>
+  <!-- 使用 <div> 建立頂部背景區塊 -->
+  <div class="top-section">
+    <div class="title">逆風羽影，隨風築夢</div>
+    <div class="subtitle">Welcome you</div>
+  </div>
+
+</body>
+</html>
+
 
 * text=auto
 <!DOCTYPE html>
