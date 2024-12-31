@@ -137,12 +137,16 @@
   <section class="about" id="about">
     <img src="https://example.com/profile-pic.jpg" alt="我的照片">
     <h2>關於我</h2>
-    <p>email:jiangyazhen1018@gmail.com</p>
+    <p>經歷</p>
+    <p>獲獎/殊榮</p>
+    
+    
   </section>
 
   <!-- 頁尾 -->
   <footer>
     <p>&copy; 2024 個人部落格. 版權所有。</p>
+    <p>email:jiangyazhen1018@gmail.com</p>
   </footer>
 
 </body>
