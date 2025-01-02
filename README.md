@@ -15,7 +15,7 @@
 
     /* 頂部導航 */
     header {
-      background: #333;
+      background:#DCB5FF;
       color:url<img src="[https://drive.google.com/file/d/13WIDpWQsQkEzI2ogYXR5YYUyU9PEb6pf/view?usp=sharing" alt](https://img.shoplineapp.com/media/image_clips/6141b144eb75ea0974248ef3/original.jpg?1631695172)](https://www.canva.com/design/DAGa0yjXNkQ/rPVjCcgl4WrQ7eFikVwW9A/view?utm_content=DAGa0yjXNkQ&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)](https://www.canva.com/design/DAGa0yjXNkQ/rPVjCcgl4WrQ7eFikVwW9A/view?utm_content=DAGa0yjXNkQ&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)="這是一張圖片">
       padding: 1rem;
       text-align: center;
@@ -24,7 +24,7 @@
     nav {
       display: flex;
       justify-content: center;
-      background: #444;
+      background: #DCB5FF;
     }
 
     nav a {
