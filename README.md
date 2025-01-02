@@ -1,18 +1,98 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>逆風羽影，隨風築夢</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f9fa;
+    }
+
+    /* 頂部區域 */
+    .header {
+      background-color: #E6CAFF;
+      padding: 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid #ddd;
+    }
+
+    .header .logo {
+      display: flex;
+      align-items: center;
+    }
+
+    .header img {
+      max-height: 50px;
+      margin-right: 10px;
+    }
+
+    .header .nav {
+      display: flex;
+      gap: 20px;
+      font-size: 16px;
+    }
+
+    .header .nav a {
+      text-decoration: none;
+      color: #000;
+    }
+
+    /* 主內容區域 */
+    .main-content {
+      padding: 20px;
+      text-align: center;
+    }
+
+    .main-content img {
+      max-width: 100%;
+      height: auto;
+      margin: 20px 0;
+    }
+  </style>
+</head>
+<body>
+  <!-- 頂部區域 -->
+  <header class="header">
+    <div class="logo">
+      <img src="logo-url.png" alt="逆風羽影 隨風築夢">
+      <h1>逆風羽影，隨風築夢</h1>
+    </div>
+    <nav class="nav">
+      <a href="#">介紹</a>
+      <a href="#">大腦認知神經科學</a>
+      <a href="#">學前特殊教育</a>
+      <a href="#">獲獎/殊榮</a>
+    </nav>
+  </header>
+
+  <!-- 主內容區域 -->
+  <div class="main-content">
+    <img src="group-photo-url.jpg" alt="團體照片">
+  </div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="cht">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>個人部落格</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      background: url('[[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWvotngTrc08TvgIhtTP3n1tJVysh_IDO3Rg&s](https://img.shoplineapp.com/media/image_clips/6141b144eb75ea0974248ef3/original.jpg?1631695172)](https://img.lovepik.com/background/20211021/large/lovepik-white-feather-creative-background-image_401463433.jpg)') no-repeat center center fixed;
-      background-size: cover;
-    }
-
+<style>
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background: url(...) no-repeat center center fixed;
+    background-size: cover;
+  }
+ 
     /* 頂部導航 */
     header {
       background:#DCB5FF;
@@ -107,7 +187,7 @@
     <a href="#">首頁</a>
     <a href="#about">關於我</a>
     <a href="#posts">文章分類</a>
-    <a href="#contact">聯絡我</a>
+    <a href="#contact">活動相簿</a>
   </nav>
 
   <!-- 主頁橫幅 -->
