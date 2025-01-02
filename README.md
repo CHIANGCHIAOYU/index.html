@@ -151,13 +151,6 @@
       margin: 0;
     }
 
-    /* 關於我 */
-    .about {
-      background: #f4f4f4;
-      padding: 2rem;
-      text-align: center;
-    }
-
     .about img {
       border-radius: 50%;
       width: 150px;
@@ -197,12 +190,6 @@
       <p>這是一篇介紹的內容摘要。</p>
     </div>
   </section>
-
-  <!-- 關於我 -->
-  <section class="about" id="about"> 
-    <img src="https://example.com/profile-pic.jpg" alt="我的照片">
-    <h2>關於我</h2>
- </section>
 
   <!-- 頁尾 -->
   <footer>
