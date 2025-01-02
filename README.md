@@ -60,15 +60,9 @@
   <!-- 頂部區域 -->
   <header class="header">
     <div class="logo">
-      <img src="logo-url.png" alt="逆風羽影 隨風築夢">
+      <img src="C:\Users\four5\OneDrive - NTHU\桌面\code\部落格模板.png">
       <h1>逆風羽影，隨風築夢</h1>
     </div>
-    <nav class="nav">
-      <a href="#">介紹</a>
-      <a href="#">大腦認知神經科學</a>
-      <a href="#">學前特殊教育</a>
-      <a href="#">獲獎/殊榮</a>
-    </nav>
   </header>
 
   <!-- 主內容區域 -->
@@ -78,12 +72,14 @@
 </body>
 </html>
 
-<!DOCTYPE html>
-<html lang="cht">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>個人部落格</title>
+<!-- 頂部導航 -->
+<nav class="nav">
+      <a href="#">首頁</a>
+      <a href="#">介紹</a>
+      <a href="#">大腦認知神經科學</a>
+      <a href="#">學前特殊教育</a>
+      <a href="#">獲獎/殊榮</a>
+    </nav>
 <style>
   body {
     margin: 0;
@@ -179,17 +175,6 @@
 </head>
 <body>
 
-  <!-- 頂部導航 -->
-  <header>
-    <h1>逆風羽影，隨風築夢</h1>
-      </header>
-  <nav>
-    <a href="#">首頁</a>
-    <a href="#about">關於我</a>
-    <a href="#posts">文章分類</a>
-    <a href="#contact">活動相簿</a>
-  </nav>
-
   <!-- 主頁橫幅 -->
   <section class="hero">
     <h1>平凡與不平凡的我</h1>
@@ -214,14 +199,10 @@
   </section>
 
   <!-- 關於我 -->
-  <section class="about" id="about">
+  <section class="about" id="about"> 
     <img src="https://example.com/profile-pic.jpg" alt="我的照片">
     <h2>關於我</h2>
-    <p>經歷</p>
-    <p>獲獎/殊榮</p>
-    
-    
-  </section>
+ </section>
 
   <!-- 頁尾 -->
   <footer>
