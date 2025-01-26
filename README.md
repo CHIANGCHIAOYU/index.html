@@ -75,9 +75,9 @@
 <!-- 頂部導航 -->
 <nav class="nav">
       <a href="#">首頁</a>
-      <a href="#">介紹</a>
-      <a href="#">大腦認知神經科學</a>
-      <a href="#">學前特殊教育</a>
+      <a href="#">教育</a>
+      <a href="#">OOTD</a>
+      <a href="#">旅遊</a>
       <a href="#">獲獎/殊榮</a>
     </nav>
 <style>
@@ -193,7 +193,7 @@
 
   <!-- 頁尾 -->
   <footer>
-    <p>&copy; 2024 個人部落格. 版權所有。</p>
+    <p>&copy; 2025 個人部落格. 版權所有。</p>
     <p>email:jiangyazhen1018@gmail.com</p>
   </footer>
 
